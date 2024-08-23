@@ -46,4 +46,21 @@ body::before {
     margin-bottom: 5px;
   }
   
+  .skills dd {
+    background-color: #e8e8e8;
+    margin: 0;
+    margin-bottom: 10px;
+  }
+
+  .skills-level {
+    font-size: 12px;
+    text-align: left;
+    color: #ffffff;
+    background-color: #4470c4;
+  }
+  .skills-level-ok {
+    background-color: #47bb52;
+  }
+  
+  
   
