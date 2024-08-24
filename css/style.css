@@ -10,57 +10,19 @@ body::before {
     background-size: 100%;
 }
 
-  h1 { font-size: 14px;
-    line-height: normal;}
-  h2 { font-size: 12px; 
-   line-height: normal;}
-  
-  a {  color: #0099ef; 
-  text-decoration: underline;}
-  .blog-navigation ul  { 
-  list-style: none;
-    padding-left: 0;}
+h1 { font-size: 24px; line-height: normal;}
 
- 
-  section {  margin-top: 30px; border: 3px solid #e54506;  padding-left: 30; }
+h2 { font-size: 12px; line-height: normal;}
   
-  footer {  margin-top: 30px; border: 3px solid #e54506;  padding-left: 30; }
+a {  color: #0099ef;  text-decoration: underline;}
 
-  #avatar {  border-radius: 60px;  border: 3px solid #e54506; }
+article {  margin-top: 30px; border: 3px solid #e54506;  padding-left: 30; }
+  
+footer {  margin-top: 30px; border: 3px solid #e54506;  padding-left: 30; }
 
-  .ancor {  padding-left: 30; } 
+aside {  margin-top: 30px;  border: 3px solid #e54506; padding-left: 30;} 
 
-  .blog-navigation {
-    margin-bottom: 30px;
-    padding: 20px;
-    background-color: #4470c4;
-    border: 5px solid #2d508f;
-    color: #ffffff;
-  }
-
-  .blog-navigation h1 {
-    margin-top: 0;
-  }
-  
-  .blog-navigation li {
-    margin-bottom: 5px;
-  }
-  
-  .skills dd {
-    background-color: #e8e8e8;
-    margin: 0;
-    margin-bottom: 10px;
-  }
-
-  .skills-level {
-    font-size: 12px;
-    text-align: left;
-    color: #ffffff;
-    background-color: #4470c4;
-  }
-  .skills-level-ok {
-    background-color: #47bb52;
-  }
-  
-  
-  
+.page-title {
+  font-size: 36px;
+  line-height: normal;
+}
